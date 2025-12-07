@@ -43,7 +43,7 @@ Precision	0.7034
 Recall	0.9974
 AUC	0.7551
 
-##Visual Outputs
+## Visual Outputs
 Sample X-rays
 
 Confusion Matrix
@@ -52,7 +52,7 @@ Training Accuracy
 
 Training Loss
 
-Future Work
+## Future Work
 
 Add Grad-CAM visual explanations
 
@@ -62,6 +62,6 @@ Test additional architectures (EfficientNet, ResNet50)
 
 Deploy model via Streamlit
 
-License
+## License
 
 For academic and research use.
