@@ -34,7 +34,7 @@ Images are resized to 224×224, normalized, augmented, and batched for training,
 
 2. Open the notebook in Google Colab.
 
-Run preprocessing, training, and evaluation cells.
+3. Run preprocessing, training, and evaluation cells.
 
 Results (Test Set)
 Metric	Score
@@ -42,7 +42,7 @@ Accuracy	0.7356
 Precision	0.7034
 Recall	0.9974
 AUC	0.7551
-Visual Outputs
+##Visual Outputs
 Sample X-rays
 
 Confusion Matrix
