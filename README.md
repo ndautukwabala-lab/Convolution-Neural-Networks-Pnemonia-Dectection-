@@ -31,3 +31,36 @@ Images are resized to 224×224, normalized, augmented, and batched for training,
    ```python
    import kagglehub
    path = kagglehub.dataset_download("paultimothymooney/chest-xray-pneumonia")
+
+2. Open the notebook in Google Colab.
+
+Run preprocessing, training, and evaluation cells.
+
+Results (Test Set)
+Metric	Score
+Accuracy	0.7356
+Precision	0.7034
+Recall	0.9974
+AUC	0.7551
+Visual Outputs
+Sample X-rays
+
+Confusion Matrix
+
+Training Accuracy
+
+Training Loss
+
+Future Work
+
+Add Grad-CAM visual explanations
+
+Balance dataset or apply focal loss
+
+Test additional architectures (EfficientNet, ResNet50)
+
+Deploy model via Streamlit
+
+License
+
+For academic and research use.
