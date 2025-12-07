@@ -12,12 +12,12 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 Images are resized to 224×224, normalized, augmented, and batched for training, validation, and testing.
 
 ## Project Structure
-├── CNN_Pneumonia.ipynb
-├── sample_xrays.png
-├── confusion_matrix.png
-├── train_accuracy.png
-├── train_loss.png
-└── README.md
+   ├── CNN_Pneumonia.ipynb
+   ├── sample_xrays.png
+   ├── confusion_matrix.png
+   ├── train_accuracy.png
+   ├── train_loss.png
+   └── README.md
 
 
 ## Model Summary
